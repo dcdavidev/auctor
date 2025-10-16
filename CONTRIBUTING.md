@@ -6,16 +6,16 @@
 ## Table of Contents
 
 1. [Getting Started](https://www.google.com/search?q=%23getting-started)
-  1. [Global Tools](https://www.google.com/search?q=%23global-tools)
-  2. [Local Setup](https://www.google.com/search?q=%23local-setup)
-2. [Branch Naming](https://www.google.com/search?q=%23branch-naming)
-3. [Commit Messages](https://www.google.com/search?q=%23commit-messages)
-4. [Code Style](https://www.google.com/search?q=%23code-style)
-5. [Pull Requests](https://www.google.com/search?q=%23pull-requests)
-6. [Git Hooks](https://www.google.com/search?q=%23git-hooks)
-7. [Discussions vs Issues](https://www.google.com/search?q=%23discussions-vs-issues)
+1. [Global Tools](https://www.google.com/search?q=%23global-tools)
+1. [Local Setup](https://www.google.com/search?q=%23local-setup)
+1. [Branch Naming](https://www.google.com/search?q=%23branch-naming)
+1. [Commit Messages](https://www.google.com/search?q=%23commit-messages)
+1. [Code Style](https://www.google.com/search?q=%23code-style)
+1. [Pull Requests](https://www.google.com/search?q=%23pull-requests)
+1. [Git Hooks](https://www.google.com/search?q=%23git-hooks)
+1. [Discussions vs Issues](https://www.google.com/search?q=%23discussions-vs-issues)
 
------
+---
 
 ## Getting Started
 
@@ -33,33 +33,33 @@ These tools provide the CLI, build system, linting, formatting, spellchecking, h
 
 1. Fork and clone the repository:
 
-  ```bash
-  git clone https://github.com/dcdavidev/auctor.git
-  cd repo-name
-  ```
-  
-  or:
-  
-  ```bash
-  gh repo clone dcdavidev/auctor
-  cd repo-name
-  ```
+```bash
+git clone https://github.com/dcdavidev/auctor.git
+cd repo-name
+```
+
+or:
+
+```bash
+gh repo clone dcdavidev/auctor
+cd repo-name
+```
 
 2. Install dependencies:
 
-  ```bash
-  npm install
-  ```
+```bash
+npm install
+```
 
 3. Build all packages:
 
-  This applies only if a `build` script is present.
-  
-  ```bash
-  nx run-many -t build
-  ```
+This applies only if a `build` script is present.
 
------
+```bash
+nx run-many -t build
+```
+
+---
 
 ## Branch Naming
 
@@ -73,7 +73,7 @@ Examples:
 - `fix/auth-bug`
 - `chore/ci-pipeline`
 
------
+---
 
 ## Commit Messages
 
@@ -97,7 +97,7 @@ Examples:
 
 Types include: `feat`, `fix`, `chore`, `docs`, `refactor`, `style`, `test`, `perf`, `build`, `ci`.
 
------
+---
 
 ## Code Style
 
@@ -113,7 +113,7 @@ eslint .
 prettier --check .
 ```
 
------
+---
 
 ## Pull Requests
 
@@ -121,7 +121,7 @@ prettier --check .
 - Update **README** or **docs** if your change affects usage.
 - Ensure all **checks pass** before requesting review.
 
------
+---
 
 ## Git Hooks
 
@@ -134,13 +134,13 @@ Install/update hooks with:
 lefthook install
 ```
 
------
+---
 
 ## Discussions vs Issues
 
 - Use **GitHub Discussions** for ideas, proposals, and questions.
 - Use **Issues** only for actionable bugs or tasks.
 
------
+---
 
 By following these guidelines, you help keep my **Davide Di Criscito** project clean, modular, and welcoming.

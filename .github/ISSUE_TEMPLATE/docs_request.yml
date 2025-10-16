@@ -1,6 +1,6 @@
-name: "Documentation Request"
+name: 'Documentation Request'
 description: Suggest improvements or report issues in **our organization's documentation**.
-title: "[DOCS] <short description>"
+title: '[DOCS] <short description>'
 labels: [documentation]
 assignees: []
 
@@ -25,7 +25,7 @@ body:
     attributes:
       label: Suggested Change
       description: How would you improve the documentation for the benefit of **all users**?
-      placeholder: "Add an example of ... / Clarify that ... / Update the screenshot on page 5."
+      placeholder: 'Add an example of ... / Clarify that ... / Update the screenshot on page 5.'
 
   - type: textarea
     id: context

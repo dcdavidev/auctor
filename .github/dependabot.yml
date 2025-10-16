@@ -1,51 +1,51 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     ignore:
-      - dependency-name: "nx"
-        versions: ["*"]
-      - dependency-name: "@nx/*"
-        versions: ["*"]
+      - dependency-name: 'nx'
+        versions: ['*']
+      - dependency-name: '@nx/*'
+        versions: ['*']
 
-  - package-ecosystem: "npm"
-    directory: "/apps"
+  - package-ecosystem: 'npm'
+    directory: '/apps'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     ignore:
-      - dependency-name: "nx"
-        versions: ["*"]
-      - dependency-name: "@nx/*"
-        versions: ["*"]
+      - dependency-name: 'nx'
+        versions: ['*']
+      - dependency-name: '@nx/*'
+        versions: ['*']
 
-  - package-ecosystem: "npm"
-    directory: "/libs"
+  - package-ecosystem: 'npm'
+    directory: '/libs'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     ignore:
-      - dependency-name: "nx"
-        versions: ["*"]
-      - dependency-name: "@nx/*"
-        versions: ["*"]
+      - dependency-name: 'nx'
+        versions: ['*']
+      - dependency-name: '@nx/*'
+        versions: ['*']
 
-  - package-ecosystem: "npm"
-    directory: "/packages"
+  - package-ecosystem: 'npm'
+    directory: '/packages'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     ignore:
-      - dependency-name: "nx"
-        versions: ["*"]
-      - dependency-name: "@nx/*"
-        versions: ["*"]
+      - dependency-name: 'nx'
+        versions: ['*']
+      - dependency-name: '@nx/*'
+        versions: ['*']
 
-  - package-ecosystem: "npm"
-    directory: "/tools"
+  - package-ecosystem: 'npm'
+    directory: '/tools'
     schedule:
-      interval: "weekly"
+      interval: 'weekly'
     ignore:
-      - dependency-name: "nx"
-        versions: ["*"]
-      - dependency-name: "@nx/*"
-        versions: ["*"]
+      - dependency-name: 'nx'
+        versions: ['*']
+      - dependency-name: '@nx/*'
+        versions: ['*']

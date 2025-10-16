@@ -2,15 +2,15 @@
 
 ### Table of Contents
 
-  - [My Pledge](https://www.google.com/search?q=%23my-pledge)
-  - [Encouraged Behavior](https://www.google.com/search?q=%23encouraged-behavior)
-  - [Unacceptable Behaviors](https://www.google.com/search?q=%23unacceptable-behaviors)
-  - [Reporting an Issue](https://www.google.com/search?q=%23reporting-an-issue)
-  - [Enforcement & Remedies](https://www.google.com/search?q=%23enforcement--remedies)
-  - [Scope](https://www.google.com/search?q=%23scope)
-  - [Attribution](https://www.google.com/search?q=%23attribution)
+- [My Pledge](https://www.google.com/search?q=%23my-pledge)
+- [Encouraged Behavior](https://www.google.com/search?q=%23encouraged-behavior)
+- [Unacceptable Behaviors](https://www.google.com/search?q=%23unacceptable-behaviors)
+- [Reporting an Issue](https://www.google.com/search?q=%23reporting-an-issue)
+- [Enforcement & Remedies](https://www.google.com/search?q=%23enforcement--remedies)
+- [Scope](https://www.google.com/search?q=%23scope)
+- [Attribution](https://www.google.com/search?q=%23attribution)
 
------
+---
 
 ## My Pledge
 
@@ -18,21 +18,21 @@ I, as a member, contributor, and leader, pledge to make my community welcoming, 
 
 I am committed to fostering an environment that respects and promotes the dignity, rights, and contributions of every individual, regardless of race, ethnicity, caste, color, age, physical appearance, neurodiversity, disability, sex, gender identity or expression, sexual orientation, language, religion or philosophy, national or social origin, socio-economic status, level of education, or any other personal characteristic. The same privileges of participation are extended to everyone who engages in good faith and in accordance with this Covenant.
 
------
+---
 
 ## Encouraged Behavior
 
 Recognizing that cultural and linguistic differences may affect how words and actions are perceived, I agree to strive toward behaviors that strengthen my community:
 
-  - Respecting the **purpose of my community**, my activities, and my ways of gathering.
-  - Engaging **kindly, honestly, and constructively** with others.
-  - Valuing and respecting **different viewpoints** and lived experiences.
-  - **Taking responsibility** for my words, actions, and contributions.
-  - Giving and receiving **constructive feedback gracefully**.
-  - Committing to **repairing harm** when it occurs.
-  - Acting in ways that promote the **health and well-being** of the community.
+- Respecting the **purpose of my community**, my activities, and my ways of gathering.
+- Engaging **kindly, honestly, and constructively** with others.
+- Valuing and respecting **different viewpoints** and lived experiences.
+- **Taking responsibility** for my words, actions, and contributions.
+- Giving and receiving **constructive feedback gracefully**.
+- Committing to **repairing harm** when it occurs.
+- Acting in ways that promote the **health and well-being** of the community.
 
------
+---
 
 ## Unacceptable Behaviors
 
@@ -48,12 +48,12 @@ The following behaviors are considered violations of this Code of Conduct:
 
 Additional restrictions include:
 
-  - **Impersonation** or misrepresentation of identity, including to evade enforcement.
-  - **Failure to credit sources** when contributing content.
-  - **Unsolicited promotion** of products or services outside of community norms.
-  - **Irresponsible communication**, including linking to or amplifying restricted behaviors.
+- **Impersonation** or misrepresentation of identity, including to evade enforcement.
+- **Failure to credit sources** when contributing content.
+- **Unsolicited promotion** of products or services outside of community norms.
+- **Irresponsible communication**, including linking to or amplifying restricted behaviors.
 
------
+---
 
 ## Reporting an Issue
 
@@ -63,49 +63,45 @@ If you experience or witness unacceptable behavior, please report it promptly by
 
 Reports will be handled with seriousness and care. My Moderator will:
 
-  - Review all reports thoroughly, gathering context through logs, messages, interviews, and other relevant information.
-  - Act promptly while balancing **transparency, confidentiality, and safety**.
-  - Share enforcement actions only with the involved parties unless broader communication is part of a mutually agreed resolution.
+- Review all reports thoroughly, gathering context through logs, messages, interviews, and other relevant information.
+- Act promptly while balancing **transparency, confidentiality, and safety**.
+- Share enforcement actions only with the involved parties unless broader communication is part of a mutually agreed resolution.
 
------
+---
 
 ## Enforcement & Remedies
 
 If My Moderator determines that this Code of Conduct has been violated, they may apply one or more of the following measures. Depending on severity, steps may be escalated without warning:
 
 1.  **Warning**
-
-      - *Event:* A single violation or first incident.
-      - *Action:* A private written warning.
-      - *Repair:* Acknowledgement of responsibility, apology, or clarification.
+    - _Event:_ A single violation or first incident.
+    - _Action:_ A private written warning.
+    - _Repair:_ Acknowledgement of responsibility, apology, or clarification.
 
 2.  **Limited Participation**
-
-      - *Event:* Repeated or more serious violation.
-      - *Action:* Temporary restriction from certain channels, discussions, or interactions.
-      - *Repair:* Reflection, apology, and preparation for reintegration.
+    - _Event:_ Repeated or more serious violation.
+    - _Action:_ Temporary restriction from certain channels, discussions, or interactions.
+    - _Repair:_ Reflection, apology, and preparation for reintegration.
 
 3.  **Temporary Suspension**
-
-      - *Event:* Serious or repeated violations.
-      - *Action:* Temporary removal with conditions for return.
-      - *Repair:* Fulfillment of those conditions and demonstrated commitment to community norms.
+    - _Event:_ Serious or repeated violations.
+    - _Action:_ Temporary removal with conditions for return.
+    - _Repair:_ Fulfillment of those conditions and demonstrated commitment to community norms.
 
 4.  **Permanent Ban**
-
-      - *Event:* Severe or repeated violations that cannot be resolved through other remedies.
-      - *Action:* Removal from all community spaces and activities.
-      - *Repair:* None applicable.
+    - _Event:_ Severe or repeated violations that cannot be resolved through other remedies.
+    - _Action:_ Removal from all community spaces and activities.
+    - _Repair:_ None applicable.
 
 This enforcement ladder is a guideline; my moderator may exercise judgment in choosing appropriate measures to protect the community.
 
------
+---
 
 ## Scope
 
 This Code of Conduct applies to all community spaces, as well as when an individual is officially representing the project or community. Examples include using an official email address, posting via official accounts, or participating as an appointed representative at events.
 
------
+---
 
 ## Attribution
 

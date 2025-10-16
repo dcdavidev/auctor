@@ -9,7 +9,7 @@
 3.  [Responsible Disclosure](https://www.google.com/search?q=%23responsible-disclosure)
 4.  [Credits](https://www.google.com/search?q=%23credits)
 
------
+---
 
 ## Supported Version
 
@@ -17,27 +17,28 @@
 
 Only the **latest major version** of my projects is supported with security updates.
 
-| Version  | Supported  |
-| :------- | :--------- |
-| Latest   | ✅         |
-| Old      | ❌         |
+| Version   | Supported   |
+| :-------- | :---------- |
+| Latest    | ✅          |
+| Old       | ❌          |
 
------
+---
 
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability:
 
 1. **Do not open a public issue.**
-  The security issue must be reported to **me** privately.
+   The security issue must be reported to **me** privately.
 2. Contact **me** directly via **GitHub Private Security Advisory**.
 3. Please include as much detail as possible:
-  - The affected version(s)
-  - Steps to reproduce
-  - The potential impact
-  - **The specific project affected**
 
------
+- The affected version(s)
+- Steps to reproduce
+- The potential impact
+- **The specific project affected**
+
+---
 
 ## Responsible Disclosure
 
@@ -47,7 +48,7 @@ If you discover a security vulnerability:
 - Avoid exploiting the vulnerability beyond what is necessary for a proof of concept.
 - Coordinate with **me** on the disclosure timeline.
 
------
+---
 
 ## Credits
 
