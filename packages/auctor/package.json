@@ -1,0 +1,95 @@
+{
+  "name": "@dcdavidev/auctor",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Auctor — a tool to apply, verify and update open-source licenses across repositories.",
+  "keywords": [
+    "license",
+    "automation",
+    "cli",
+    "nx",
+    "open-source",
+    "devtools"
+  ],
+  "homepage": "https://github.com/dcdavidev/auctor#readme",
+  "bugs": {
+    "url": "https://github.com/dcdavidev/auctor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcdavidev/auctor.git"
+  },
+  "license": "Apache-2.0",
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "@dcdavidev/source": "./src/index.ts",
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "auctor": "./dist/bin/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "nx run auctor:build",
+    "watch": "nx run auctor:watch"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "tsdown": "^0.15.7",
+    "typescript": "^5.9.3"
+  },
+  "nx": {
+    "name": "auctor",
+    "tags": [
+      "cli"
+    ],
+    "targets": {
+      "build": {
+        "executor": "nx:run-commands",
+        "inputs": [
+          "production"
+        ],
+        "outputs": [
+          "{projectRoot}/dist"
+        ],
+        "options": {
+          "cwd": "{projectRoot}",
+          "parallel": false,
+          "commands": [
+            "tsdown",
+            "tsc -p tsconfig.lib.json"
+          ]
+        },
+        "dependsOn": [
+          "^build"
+        ]
+      },
+      "watch": {
+        "executor": "nx:run-commands",
+        "inputs": [
+          "default"
+        ],
+        "options": {
+          "cwd": "{projectRoot}",
+          "commands": [
+            "tsdown --watch"
+          ]
+        }
+      }
+    }
+  }
+}
