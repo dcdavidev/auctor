@@ -9,7 +9,25 @@
     "tools/*",
     "packages/*"
   ],
-  "scripts": {},
+  "scripts": {
+    "build": "nx run-many -t build",
+    "commit": "cz",
+    "fmt:check": "prettier . --check",
+    "fmt:fix": "prettier . --write",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "lint:fmt": "npm run lint:fix && npm run fmt:fix",
+    "nx:agents": "nx configure-ai-agents",
+    "nx:agents:check": "nx configure-ai-agents --check",
+    "nx:agents:upgrade": "nx configure-ai-agents --agents codex gemini",
+    "nx:daemon:start": "nx daemon --start",
+    "nx:migrate": "nx migrate --run-migrations=migrations.json --if-exists && npm install",
+    "nx:repair": "nx repair",
+    "nx:reset": "nx reset",
+    "nx:sync": "nx sync",
+    "nx:upgrade": "nx migrate latest",
+    "prepare": "lefthook install"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-git"
