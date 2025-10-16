@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-1.  [Supported Version](https://www.google.com/search?q=%23supported-version)
-2.  [Reporting a Vulnerability](https://www.google.com/search?q=%23reporting-a-vulnerability)
-3.  [Responsible Disclosure](https://www.google.com/search?q=%23responsible-disclosure)
-4.  [Credits](https://www.google.com/search?q=%23credits)
+- [Supported Version](#supported-version)
+- [Reporting a Vulnerability](#reporting-a-vulnerability)
+- [Responsible Disclosure](#responsible-disclosure)
+- [Credits](#credits)
 
 ---
 

@@ -5,15 +5,15 @@
 
 ## Table of Contents
 
-1. [Getting Started](https://www.google.com/search?q=%23getting-started)
-1. [Global Tools](https://www.google.com/search?q=%23global-tools)
-1. [Local Setup](https://www.google.com/search?q=%23local-setup)
-1. [Branch Naming](https://www.google.com/search?q=%23branch-naming)
-1. [Commit Messages](https://www.google.com/search?q=%23commit-messages)
-1. [Code Style](https://www.google.com/search?q=%23code-style)
-1. [Pull Requests](https://www.google.com/search?q=%23pull-requests)
-1. [Git Hooks](https://www.google.com/search?q=%23git-hooks)
-1. [Discussions vs Issues](https://www.google.com/search?q=%23discussions-vs-issues)
+- [Getting Started](#getting-started)
+- [Global Tools](#global-tools)
+- [Local Setup](#local-setup)
+- [Branch Naming](#branch-naming)
+- [Commit Messages](#commit-messages)
+- [Code Style](#code-style)
+- [Pull Requests](#pull-requests)
+- [Git Hooks](#git-hooks)
+- [Discussions vs Issues](#discussions-vs-issues)
 
 ---
 
@@ -35,14 +35,14 @@ These tools provide the CLI, build system, linting, formatting, spellchecking, h
 
 ```bash
 git clone https://github.com/dcdavidev/auctor.git
-cd repo-name
+cd auctor
 ```
 
 or:
 
 ```bash
 gh repo clone dcdavidev/auctor
-cd repo-name
+cd auctor
 ```
 
 2. Install dependencies:
@@ -109,7 +109,7 @@ Run manually:
 
 ```bash
 cspell lint .
-eslint .
+eslint --fix .
 prettier --check .
 ```
 

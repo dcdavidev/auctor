@@ -2,17 +2,17 @@
 
 ### Table of Contents
 
-- [My Pledge](https://www.google.com/search?q=%23my-pledge)
-- [Encouraged Behavior](https://www.google.com/search?q=%23encouraged-behavior)
-- [Unacceptable Behaviors](https://www.google.com/search?q=%23unacceptable-behaviors)
-- [Reporting an Issue](https://www.google.com/search?q=%23reporting-an-issue)
-- [Enforcement & Remedies](https://www.google.com/search?q=%23enforcement--remedies)
-- [Scope](https://www.google.com/search?q=%23scope)
-- [Attribution](https://www.google.com/search?q=%23attribution)
+- [My Pledge](#my-pledge)
+- [Encouraged Behavior](#encouraged-behavior)
+- [Unacceptable Behaviors](#unacceptable-behaviors)
+- [Reporting an Issue](#reporting-an-issue)
+- [Enforcement & Remedies](#enforcement--remedies)
+- [Scope](#scope)
+- [Attribution](#attribution)
 
 ---
 
-## My Pledge
+## my Pledge
 
 I, as a member, contributor, and leader, pledge to make my community welcoming, safe, and equitable for all.
 

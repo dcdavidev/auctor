@@ -152,7 +152,7 @@
     "nx.json": "jsonc",
     "workspace.json": "jsonc",
     "project.json": "jsonc",
-    "package.json": "jsonc",
+    "package.json": "json",
     "pnpm-lock.yaml": "yaml",
     "pnpm-workspace.yaml": "yaml",
     "LICENSE": "plaintext"
