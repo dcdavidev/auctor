@@ -51,7 +51,7 @@ jobs:
 
       - name: Auto-Commit Files
         if: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository }}
-        uses: stefanzweifel/git-auto-commit-action@025740a68e1acfa7b8e75549c97b5cc326e6385f
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "ci: lint and format"
           branch: ${{ github.head_ref }}
